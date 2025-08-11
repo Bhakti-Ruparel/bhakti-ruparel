@@ -47,38 +47,13 @@ I enjoy building **projects** that solve real-world problems and love combining 
 ## 📫 Connect With Me
 
 <!-- Contact Section -->
-<section id="contact" style="text-align:center; padding: 50px; background: #f9f9f9;">
-    <h2>Contact Me</h2>
-    <a href="https://www.linkedin.com/in/bhakti-ruparel" target="_blank" 
-       style="
-            display: inline-block;
-            padding: 12px 24px;
-            font-size: 18px;
-            font-weight: bold;
-            color: white;
-            text-decoration: none;
-            border-radius: 30px;
-            background: linear-gradient(45deg, #ff6b6b, #ffcc00, #4facfe);
-            background-size: 300% 300%;
-            animation: gradientMove 5s ease infinite;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-       ">
-        💼 Connect on LinkedIn
-    </a>
+<a href="https://www.linkedin.com/in/bhakti-ruparel" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
-    <p style="margin-top: 20px; font-size: 16px;">
-        📧 Email: <a href="mailto:bhaktibruparel3@gmail.com" style="color: #ff6b6b;">bhaktibruparel3@gmail.com</a>
-    </p>
-</section>
-
-<style>
-@keyframes gradientMove {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-}
-</style>
-
+<a href="mailto:bhaktibruparel3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 
 
