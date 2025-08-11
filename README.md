@@ -45,8 +45,19 @@ I enjoy building **projects** that solve real-world problems and love combining 
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_LINK)
+<!-- Contact Section -->
+<section id="contact" class="contact-section">
+  <h2>Contact Me</h2>
+  <p>If you'd like to connect or work together, feel free to reach out:</p>
+  
+  <a href="https://www.linkedin.com/in/bhakti-ruparel" target="_blank" class="btn btn-primary">
+    <i class="fab fa-linkedin"></i> LinkedIn
+  </a>
+  
+  <a href="mailto:bhaktibruparel3@gmail.com" class="btn btn-secondary">
+    <i class="fas fa-envelope"></i> Email Me
+  </a>
+</section>
 
 
 
