@@ -40,7 +40,7 @@ I enjoy building **projects** that solve real-world problems and love combining 
 ---
 
 ## 📊 GitHub Stats
-![Bhakti's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Bhakti's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhakti-ruparel&show_icons=true&theme=radical)
 
 ---
 
