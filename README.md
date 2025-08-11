@@ -45,19 +45,40 @@ I enjoy building **projects** that solve real-world problems and love combining 
 ---
 
 ## 📫 Connect With Me
+
 <!-- Contact Section -->
-<section id="contact" class="contact-section">
-  <h2>Contact Me</h2>
-  <p>If you'd like to connect or work together, feel free to reach out:</p>
-  
-  <a href="https://www.linkedin.com/in/bhakti-ruparel" target="_blank" class="btn btn-primary">
-    <i class="fab fa-linkedin"></i> LinkedIn
-  </a>
-  
-  <a href="mailto:bhaktibruparel3@gmail.com" class="btn btn-secondary">
-    <i class="fas fa-envelope"></i> Email Me
-  </a>
+<section id="contact" style="text-align:center; padding: 50px; background: #f9f9f9;">
+    <h2>Contact Me</h2>
+    <a href="https://www.linkedin.com/in/bhakti-ruparel" target="_blank" 
+       style="
+            display: inline-block;
+            padding: 12px 24px;
+            font-size: 18px;
+            font-weight: bold;
+            color: white;
+            text-decoration: none;
+            border-radius: 30px;
+            background: linear-gradient(45deg, #ff6b6b, #ffcc00, #4facfe);
+            background-size: 300% 300%;
+            animation: gradientMove 5s ease infinite;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+       ">
+        💼 Connect on LinkedIn
+    </a>
+
+    <p style="margin-top: 20px; font-size: 16px;">
+        📧 Email: <a href="mailto:bhaktibruparel3@gmail.com" style="color: #ff6b6b;">bhaktibruparel3@gmail.com</a>
+    </p>
 </section>
+
+<style>
+@keyframes gradientMove {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+</style>
+
 
 
 
